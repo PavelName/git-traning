@@ -1,1 +1,3 @@
-console.log('- Did Joffrey agree?\n- He did. He also said "I love using \\n".');
+console.log(String.fromCharCode(126));
+console.log(String.fromCharCode(94));
+console.log(String.fromCharCode(37));

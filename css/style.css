@@ -675,4 +675,10 @@ body {
         
     }   
 }
-
+/* media for h1 */
+@media screen and (max-width: 380px) {
+    .h1 {
+        font-size: 20px;
+        line-height: 64px;
+    }
+}
